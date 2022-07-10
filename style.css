@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+body{
+  background-color:black;
+  color:white;
+  font-family:Quicksand;
+  text-align:center;
+}
+.copy_right_footer{
+  font-size:30;
+  position:fixed;
+  bottom:0;
+  width:100%;
+  text-align:center;
+  color:black;
+  background-color:white;
+}
